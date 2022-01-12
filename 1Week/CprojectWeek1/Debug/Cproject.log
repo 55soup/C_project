@@ -1,0 +1,5 @@
+﻿  pointer4.c
+C:\Users\sunjo\Desktop\Cproject\pointer4.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\sunjo\Desktop\Cproject\pointer4.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\sunjo\Desktop\Cproject\pointer4.c(21,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Cproject.vcxproj -> C:\Users\sunjo\Desktop\Cproject\Debug\Cproject.exe
